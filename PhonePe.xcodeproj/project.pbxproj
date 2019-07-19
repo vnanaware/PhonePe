@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		0152BC85223E2CC35FE130F1 /* Pods_PhonePe.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7605F4F9C71BC19A66109AD7 /* Pods_PhonePe.framework */; };
+		60276C0122E20353004017ED /* Screenshots.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 60276C0022E20353004017ED /* Screenshots.pdf */; };
 		602BE43522DF591B004C377F /* ProfileInfo_Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602BE43422DF591B004C377F /* ProfileInfo_Model.swift */; };
 		602BE43722DF5947004C377F /* ProfileInfo_ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602BE43622DF5947004C377F /* ProfileInfo_ViewModel.swift */; };
 		602BE43A22DF67C5004C377F /* FollowesFollowingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = 602BE43922DF67C5004C377F /* FollowesFollowingScreen.swift */; };
@@ -47,6 +48,7 @@
 
 /* Begin PBXFileReference section */
 		4F4DB4121C931B7C0417AFB9 /* Pods-PhonePe.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-PhonePe.release.xcconfig"; path = "Pods/Target Support Files/Pods-PhonePe/Pods-PhonePe.release.xcconfig"; sourceTree = "<group>"; };
+		60276C0022E20353004017ED /* Screenshots.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = Screenshots.pdf; sourceTree = "<group>"; };
 		602BE43422DF591B004C377F /* ProfileInfo_Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileInfo_Model.swift; sourceTree = "<group>"; };
 		602BE43622DF5947004C377F /* ProfileInfo_ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileInfo_ViewModel.swift; sourceTree = "<group>"; };
 		602BE43922DF67C5004C377F /* FollowesFollowingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FollowesFollowingScreen.swift; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 		603921AA22D7536600FD23EC /* Resources */ = {
 			isa = PBXGroup;
 			children = (
+				60276C0022E20353004017ED /* Screenshots.pdf */,
 				603CCAC422D8AD640025C6E8 /* DBAlertController.swift */,
 				603921AB22D7539F00FD23EC /* Helper.swift */,
 			);
@@ -320,6 +323,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60276C0122E20353004017ED /* Screenshots.pdf in Resources */,
 				605B671C22D4C79B00D56819 /* LaunchScreen.storyboard in Resources */,
 				605B671922D4C79B00D56819 /* Assets.xcassets in Resources */,
 				605B671722D4C78F00D56819 /* Main.storyboard in Resources */,
